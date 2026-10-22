@@ -1,6 +1,16 @@
 # SFS 1.6 Roleplay Configs
 The configs of the SFS 1.6 roleplay.
 
+## JSON Formatting
+All launches must follow the format shown below
+
+```json
+{
+  "event": "What happened in the launch?",
+  "who": "Who did the launch?"
+}
+```
+
 ## Links
 Discord Server: [New Genisis](https://discord.gg/ZnzxsBcbhJ)
 

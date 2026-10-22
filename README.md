@@ -10,6 +10,18 @@ All launches must follow the format shown below
   "who": "Who did the launch?"
 }
 ```
+  
+All space agencies must follow the format below
+```json
+{
+  "name": "What's the space agencies name?",
+  "owner": "Who owns the space agency?",
+  "type": "Is it private or goverment owned?",
+  "prestige": "How much prestige they have",
+  "status": "What is their status",
+  "comms": "What is their comms teir"
+},
+```
 
 ## Links
 Discord Server: [New Genisis](https://discord.gg/ZnzxsBcbhJ)

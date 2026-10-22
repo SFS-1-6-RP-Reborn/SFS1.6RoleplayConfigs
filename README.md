@@ -23,6 +23,15 @@ All space agencies must follow the format below
 },
 ```
 
+All relations must follow the format below
+```json
+{
+    "name": "What's the relations name?",
+    "what": "What is the relation about?",
+    "who": "Who is involved in the relation?"
+}
+```
+
 ## Links
 Discord Server: [New Genisis](https://discord.gg/ZnzxsBcbhJ)
 

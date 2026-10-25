@@ -1,5 +1,5 @@
 Fuel Tank: $10 x (width + height)
-Fairings (how the fuck do I spell it?): $2 x (width + height)
+Fairing: $2 x (width + height)
 Capsule: $20 + ($2 x crew)
 Probe: $5 + torque
 Wheel: $2 + torque + max speed

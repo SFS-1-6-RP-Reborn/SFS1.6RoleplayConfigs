@@ -1,0 +1,10 @@
+Fuel Tank: $10 x (width + height)
+Fairings (how the fuck do I spell it?): $2 x (width + height)
+Capsule: $20 + ($2 x crew)
+Probe: $5 + torque
+Wheel: $2 + torque + max speed
+Strut: $size
+Nose Cone: $2 x width
+Parachute: $4
+Engine: $5 x thrust ^ 0.6 x (isp / 300) ^ 3
+Heat Shield: $3 x size

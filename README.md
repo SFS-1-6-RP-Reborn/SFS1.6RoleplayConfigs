@@ -17,9 +17,9 @@ All space agencies must follow the format below
   "name": "What's the space agencies name?",
   "owner": "Who owns the space agency?",
   "type": "Is it private or goverment owned?",
-  "prestige": "How much prestige they have",
-  "status": "What is their status",
-  "comms": "What is their comms teir"
+  "money": "How much money they have",
+  "status": "What is their status?",
+  "comms": "What is their comms teir>"
 },
 ```
 
@@ -33,7 +33,7 @@ All relations must follow the format below
 ```
 
 ## Links
-Discord Server: [New Genisis](https://discord.gg/ZnzxsBcbhJ)  
+Discord Server: [SFS Forumers](https://discord.gg/ZnzxsBcbhJ)  
   
 Website: [SFS 1.6 RP](https://sfs-1-6-rp-reborn.github.io/1.6-RP-Reborn-website/)  
 

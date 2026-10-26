@@ -15,6 +15,14 @@
             "money": "2500",
             "status": "Active",
             "comms": "Normal"
+        },
+        {
+            "name": "Roshan Space Company",
+            "owner": "Roshan",
+            "type" : "Privately owned",
+            "money": "2500",
+            "status": "Active",
+            "comms": "Normal"
         }
     ]
 }

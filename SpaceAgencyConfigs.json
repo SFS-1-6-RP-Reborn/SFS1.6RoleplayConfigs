@@ -7,6 +7,14 @@
             "money": "2402",
             "status": "Active",
             "comms": "Normal"
+        },
+        {
+            "name": "Ulluriarsiut Exploration of Space",
+            "owner": "Ulluriarsiut Company",
+            "type" : "Privately owned",
+            "money": "2500",
+            "status": "Active",
+            "comms": "Normal"
         }
     ]
 }

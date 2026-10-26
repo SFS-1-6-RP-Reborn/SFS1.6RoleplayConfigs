@@ -1,3 +1,8 @@
 {
-    "Launch_Records": []
+    "Launch_Records": [
+        {
+            "event": "First launch",
+            "who": "Nuclide Technologies"
+        },
+    ]
 }

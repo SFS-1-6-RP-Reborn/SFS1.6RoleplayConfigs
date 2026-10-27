@@ -7,6 +7,10 @@
         {
             "event": "First orbit",
             "who": "Ulluriarsiut Exploration of Space"
+        },
+        {
+            "event": "First landing after orbit",
+            "who": "Nuclide Technologies"
         }
     ]
 }

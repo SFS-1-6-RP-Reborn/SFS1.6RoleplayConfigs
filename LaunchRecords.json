@@ -27,6 +27,10 @@
         {
             "event": "First craft to orbit the Captured Asteroid",
             "who": "Ulluriarsiut Exploration of Space"
+        },
+        {
+            "event": "FSE-1 suborbital launch"
+            "who": "Fundamental Space Exploration"
         }
     ]
 }

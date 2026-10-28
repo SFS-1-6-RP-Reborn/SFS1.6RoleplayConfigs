@@ -25,11 +25,15 @@
             "who": "Roshan Space Company"
         },
         {
+            "event": "First Lunar orbiter",
+            "who": "Nuclide Technologies"
+        },
+        {
             "event": "First craft to orbit the Captured Asteroid",
             "who": "Ulluriarsiut Exploration of Space"
         },
         {
-            "event": "FSE-1 suborbital launch"
+            "event": "FSE-1 suborbital launch",
             "who": "Fundamental Space Exploration"
         }
     ]

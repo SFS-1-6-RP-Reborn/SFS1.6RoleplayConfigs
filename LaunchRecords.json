@@ -35,6 +35,10 @@
         {
             "event": "FSE-1 suborbital launch",
             "who": "Fundamental Space Exploration"
+        },
+        {
+            "event": "First Moon lander",
+            "who": "Nuclide Technologies"
         }
     ]
 }

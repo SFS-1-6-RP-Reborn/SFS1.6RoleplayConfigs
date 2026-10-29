@@ -44,5 +44,9 @@
             "event": "First Venus orbiter",
             "who": "Ulluriarsiut Exploration of Space"
         },
+        {
+            "event": "First manned suborbital test flight",
+            "who":"Nuclide Technologies"
+        }
     ]
 }

@@ -55,6 +55,22 @@
             "money": "1000",
             "status": "Active",
             "comms": "Normal"
+        },
+        {
+            "name": "Apex Aerospace",
+            "owner": "Dylon25",
+            "type": "Privately owned",
+            "money": "1000",
+            "status": "Active",
+            "comms": "Normal"
+        },
+        {
+            "name": "Unknown Space Research Agency (USA)",
+            "owner": "Unknown",
+            "type":"Privately owned",
+            "money": "1000",
+            "status": "Active",
+            "comms": "Normal"
         }
     ]
 }

@@ -47,6 +47,14 @@
             "money": "2500",
             "status": "Active",
             "comms": "Normal"
+        },
+        {
+            "name": "Janitor's space agency (JSA)",
+            "owner": "JetstimulatorLabs",
+            "type" : "Privately owned",
+            "money": "2500",
+            "status": "Active",
+            "comms": "Normal"
         }
     ]
 }

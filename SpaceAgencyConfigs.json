@@ -36,7 +36,7 @@
             "name": "SSAAI (Stark Miller Aerospace and Autonomic Industries)",
             "owner": "Dr. Stark A. Miller",
             "type" : "Privately owned",
-            "money": "2500",
+            "money": "1000",
             "status": "Active",
             "comms": "Normal"
         },
@@ -44,7 +44,7 @@
             "name": "Halifax Aeronautics Co. (HAC)",
             "owner": "John Ford",
             "type" : "Privately owned",
-            "money": "2500",
+            "money": "1000",
             "status": "Active",
             "comms": "Normal"
         },
@@ -52,7 +52,7 @@
             "name": "Janitor's space agency (JSA)",
             "owner": "JetstimulatorLabs",
             "type" : "Privately owned",
-            "money": "2500",
+            "money": "1000",
             "status": "Active",
             "comms": "Normal"
         }

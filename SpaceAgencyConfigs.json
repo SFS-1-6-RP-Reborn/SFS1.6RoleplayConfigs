@@ -31,6 +31,14 @@
             "money": "2500",
             "status": "Active",
             "comms": "Normal"
+        },
+        {
+            "name": "SSAAI (Stark Miller Aerospace and Autonomic Industries)",
+            "owner": "Dr. Stark A. Miller",
+            "type" : "Privately owned",
+            "money": "2500",
+            "status": "Active",
+            "comms": "Normal"
         }
     ]
 }

@@ -39,6 +39,10 @@
         {
             "event": "First Moon lander",
             "who": "Nuclide Technologies"
-        }
+        },
+        {
+            "event": "First Venus orbiter",
+            "who": "Ulluriarsiut Exploration of Space"
+        },
     ]
 }

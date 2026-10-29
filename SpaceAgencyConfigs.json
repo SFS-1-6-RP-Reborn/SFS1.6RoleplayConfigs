@@ -71,6 +71,14 @@
             "money": "1000",
             "status": "Active",
             "comms": "Normal"
+        },
+        {
+            "name": "Arc Dev Space (ADS)",
+            "owner": "A-inc (Airship)",
+            "type": "Privately owned",
+            "money": "1000",
+            "status": "Active",
+            "comms": "Normal"
         }
     ]
 }

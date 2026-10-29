@@ -39,6 +39,14 @@
             "money": "2500",
             "status": "Active",
             "comms": "Normal"
+        },
+        {
+            "name": "Halifax Aeronautics Co. (HAC)",
+            "owner": "John Ford",
+            "type" : "Privately owned",
+            "money": "2500",
+            "status": "Active",
+            "comms": "Normal"
         }
     ]
 }

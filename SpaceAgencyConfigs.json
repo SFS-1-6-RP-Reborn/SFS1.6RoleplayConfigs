@@ -3,7 +3,7 @@
         {
             "name": "Nuclide Space Technologies",
             "owner": "Engine",
-            "type" : "Privately owned",
+            "type" : "Lunar grade comms",
             "money": "7090",
             "status": "Active",
             "comms": "Normal"
@@ -14,7 +14,7 @@
             "type" : "Privately owned",
             "money": "3817",
             "status": "Active",
-            "comms": "Normal"
+            "comms": "Interplanetary"
         },
         {
             "name": "Roshan Space Company",
@@ -76,6 +76,14 @@
             "name": "Arc Dev Space (ADS)",
             "owner": "A-inc (Airship)",
             "type": "Privately owned",
+            "money": "1000",
+            "status": "Active",
+            "comms": "Normal"
+        },
+        {
+            "name": "NAES (National Advanced Exploration Space)",
+            "owner": "SIARA Explorer",
+            "type": "Government owned",
             "money": "1000",
             "status": "Active",
             "comms": "Normal"

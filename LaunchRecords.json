@@ -47,6 +47,10 @@
         {
             "event": "First manned suborbital test flight",
             "who":"Nuclide Technologies"
+        },
+        {
+            "event": "Atmospheric tests and data gathering",
+            "who":"JSL"
         }
     ]
 }

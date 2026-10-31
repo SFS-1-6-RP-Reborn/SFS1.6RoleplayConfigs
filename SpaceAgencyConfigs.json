@@ -3,10 +3,10 @@
         {
             "name": "Nuclide Space Technologies",
             "owner": "Engine",
-            "type" : "Lunar grade comms",
+            "type" : "Privately owned",
             "money": "7090",
             "status": "Active",
-            "comms": "Normal"
+            "comms": "Lunar Grade"
         },
         {
             "name": "Ulluriarsiut Exploration of Space",

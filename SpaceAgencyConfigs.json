@@ -12,7 +12,7 @@
             "name": "Ulluriarsiut Exploration of Space",
             "owner": "Ulluriarsiut Company",
             "type" : "Privately owned",
-            "money": "3817",
+            "money": "4971.98",
             "status": "Active",
             "comms": "Interplanetary"
         },
@@ -60,7 +60,7 @@
             "name": "Apex Aerospace",
             "owner": "Dylon25",
             "type": "Privately owned",
-            "money": "1381.11",
+            "money": "1282.11",
             "status": "Active",
             "comms": "Normal"
         },
@@ -68,9 +68,9 @@
             "name": "Unknown Relay and Space Agency (URSA)",
             "owner": "Unknown",
             "type":"Privately owned",
-            "money": "5177.61",
+            "money": "5749.35",
             "status": "Active",
-            "comms": "Normal"
+            "comms": "Interplanetary"
         },
         {
             "name": "Arc Dev Space (ADS)",
@@ -84,6 +84,14 @@
             "name": "NAES (National Advanced Exploration Space)",
             "owner": "SIARA Explorer",
             "type": "Government owned",
+            "money": "1000",
+            "status": "Active",
+            "comms": "Normal"
+        },
+        {
+            "name": "Bludster Aerospace Manufacturing",
+            "owner": "Bludington",
+            "type": "Privately owned",
             "money": "1000",
             "status": "Active",
             "comms": "Normal"

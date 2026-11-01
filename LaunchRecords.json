@@ -46,7 +46,7 @@
         },
         {
             "event": "First manned suborbital test flight",
-            "who":"Nuclide Technologies"
+            "who": "Nuclide Technologies"
         },
         {
             "event": "GeoSat 1, a relay satilite that aims to improve comms to lunar grade",
@@ -54,7 +54,7 @@
         },
         {
             "event": "Atmospheric tests and data gathering",
-            "who":"JSL"
+            "who": "JSL"
         },
         {
             "event": "Archer 1",
@@ -65,12 +65,24 @@
             "who": "USRA"
         },
         {
-            "event": "Genome 1, a impactor + orbiter that visted an asteroid called Roshan",
+            "event": "Gnome 1, a impactor + orbiter that visted an asteroid called Roshan",
             "who": "USRA"
         },
         {
             "event": "CS-1, Comms in LEO and HEO",
             "who": "Apex Aerospace"
+        },
+        {
+            "event": "Malina 7, Launch to map out clouds and magnetosphere on Jupiter",
+            "who": "Ulluriarsiut Exploration of Space"
+        },
+        {
+            "event": "SolarComms 1, a satilite for interplanetary comms",
+            "who": "USRA"
+        },
+        {
+            "event": "Malina 8, A satilite mapping out Ceres' surface",
+            "who": "Ulluriarsiut Exploration of Space"
         }
     ]
 }

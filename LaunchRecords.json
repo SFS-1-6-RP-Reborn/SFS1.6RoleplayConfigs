@@ -83,6 +83,10 @@
         {
             "event": "Malina 8, A satilite mapping out Ceres' surface",
             "who": "Ulluriarsiut Exploration of Space"
+        },
+        {
+            "event": "Archer 2",
+            "who": "Arc Dev Space (ADS)"
         }
     ]
 }

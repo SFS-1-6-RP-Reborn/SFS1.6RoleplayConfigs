@@ -49,8 +49,28 @@
             "who":"Nuclide Technologies"
         },
         {
+            "event": "GeoSat 1, a relay satilite that aims to improve comms to lunar grade",
+            "who": "USRA"
+        },
+        {
             "event": "Atmospheric tests and data gathering",
             "who":"JSL"
+        },
+        {
+            "event": "Archer 1",
+            "who": "Arc Dev Space (ADS)"
+        },
+        {
+            "event": "Perseverance 1, a one person crewed craft",
+            "who": "USRA"
+        },
+        {
+            "event": "Genome 1, a impactor + orbiter that visted an asteroid called Roshan",
+            "who": "USRA"
+        },
+        {
+            "event": "CS-1, Comms in LEO and HEO",
+            "who": "Apex Aerospace"
         }
     ]
 }

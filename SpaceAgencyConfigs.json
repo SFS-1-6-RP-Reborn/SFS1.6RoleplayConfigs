@@ -60,7 +60,7 @@
             "name": "Apex Aerospace",
             "owner": "Dylon25",
             "type": "Privately owned",
-            "money": "1000",
+            "money": "1381.11",
             "status": "Active",
             "comms": "Normal"
         },
@@ -68,7 +68,7 @@
             "name": "Unknown Relay and Space Agency (URSA)",
             "owner": "Unknown",
             "type":"Privately owned",
-            "money": "1000",
+            "money": "5177.61",
             "status": "Active",
             "comms": "Normal"
         },
@@ -76,7 +76,7 @@
             "name": "Arc Dev Space (ADS)",
             "owner": "A-inc (Airship)",
             "type": "Privately owned",
-            "money": "1000",
+            "money": "1939",
             "status": "Active",
             "comms": "Normal"
         },

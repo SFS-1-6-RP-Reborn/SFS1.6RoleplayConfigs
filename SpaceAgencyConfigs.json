@@ -3,56 +3,56 @@
         {
             "name": "Nuclide Space Technologies",
             "owner": "Engine",
-            "type" : "Privately owned",
-            "money": "7090",
+            "type": "Privately owned",
+            "money": "7,090.00",
             "status": "Active",
             "comms": "Lunar Grade"
         },
         {
             "name": "Ulluriarsiut Exploration of Space",
             "owner": "Ulluriarsiut Company",
-            "type" : "Privately owned",
-            "money": "4971.98",
+            "type": "Privately owned",
+            "money": "4,971.98",
             "status": "Active",
             "comms": "Interplanetary"
         },
         {
             "name": "Roshan Space Company",
             "owner": "Roshan",
-            "type" : "Privately owned",
-            "money": "3355",
+            "type": "Privately owned",
+            "money": "3,355.00",
             "status": "Active",
             "comms": "Normal"
         },
         {
             "name": "Fundamental Space Exploration",
             "owner": "Fundamental Science",
-            "type" : "Privately owned",
-            "money": "2500",
+            "type": "Privately owned",
+            "money": "2,500.00",
             "status": "Active",
             "comms": "Normal"
         },
         {
             "name": "SSAAI (Stark Miller Aerospace and Autonomic Industries)",
             "owner": "Dr. Stark A. Miller",
-            "type" : "Privately owned",
-            "money": "1000",
+            "type": "Privately owned",
+            "money": "1,000.00",
             "status": "Active",
             "comms": "Normal"
         },
         {
             "name": "Halifax Aeronautics Co. (HAC)",
             "owner": "John Ford",
-            "type" : "Privately owned",
-            "money": "1000",
+            "type": "Privately owned",
+            "money": "1,000.00",
             "status": "Active",
             "comms": "Normal"
         },
         {
             "name": "Janitor's space agency (JSA)",
             "owner": "JetstimulatorLabs",
-            "type" : "Privately owned",
-            "money": "1000",
+            "type": "Privately owned",
+            "money": "1,000.00",
             "status": "Active",
             "comms": "Normal"
         },
@@ -60,15 +60,15 @@
             "name": "Apex Aerospace",
             "owner": "Dylon25",
             "type": "Privately owned",
-            "money": "1282.11",
+            "money": "1,282.11",
             "status": "Active",
             "comms": "Normal"
         },
         {
             "name": "Unknown Relay and Space Agency (URSA)",
             "owner": "Unknown",
-            "type":"Privately owned",
-            "money": "5749.35",
+            "type": "Privately owned",
+            "money": "5,749.35",
             "status": "Active",
             "comms": "Interplanetary"
         },
@@ -76,7 +76,7 @@
             "name": "Arc Dev Space (ADS)",
             "owner": "A-inc (Airship)",
             "type": "Privately owned",
-            "money": "2872.50",
+            "money": "2,872.50",
             "status": "Active",
             "comms": "Normal"
         },
@@ -84,7 +84,7 @@
             "name": "NAES (National Advanced Exploration Space)",
             "owner": "SIARA Explorer",
             "type": "Government owned",
-            "money": "1000",
+            "money": "1,000.00",
             "status": "Active",
             "comms": "Normal"
         },
@@ -92,7 +92,7 @@
             "name": "Bludster Aerospace Manufacturing",
             "owner": "Bludington",
             "type": "Privately owned",
-            "money": "1000",
+            "money": "1,000.00",
             "status": "Active",
             "comms": "Normal"
         }

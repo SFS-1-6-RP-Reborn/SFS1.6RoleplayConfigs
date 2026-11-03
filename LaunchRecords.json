@@ -91,6 +91,10 @@
         {
             "event": "Archer 2",
             "who": "Arc Dev Space (ADS)"
+        },
+        {
+            "event": "Mercury 2, crewed flyby of the moon",
+            "who": "USRA"
         }
     ]
 }

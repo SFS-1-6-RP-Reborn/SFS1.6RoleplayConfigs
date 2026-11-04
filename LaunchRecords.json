@@ -95,6 +95,10 @@
         {
             "event": "Perseverance 2, manned flyby of the moon",
             "who": "USRA"
+        },
+        {
+            "event": "JSL Leap Star I | JSL's first manned craft",
+            "who": "JSL"
         }
     ]
 }

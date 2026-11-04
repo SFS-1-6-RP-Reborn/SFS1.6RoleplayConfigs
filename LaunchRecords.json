@@ -49,7 +49,7 @@
             "who": "Nuclide Technologies"
         },
         {
-            "event": "GeoSat 1, a relay satilite that aims to improve comms to lunar grade",
+            "event": "GeoSat 1, a relay satellite that aims to improve comms to lunar grade",
             "who": "USRA"
         },
         {
@@ -61,7 +61,7 @@
             "who": "Arc Dev Space (ADS)"
         },
         {
-            "event": "Perseverance 1, a one person crewed craft",
+            "event": "Perseverance 1, manned craft to orbit",
             "who": "USRA"
         },
         {
@@ -77,11 +77,11 @@
             "who": "Ulluriarsiut Exploration of Space"
         },
         {
-            "event": "SolarComms 1, a satilite for interplanetary comms",
+            "event": "SolarComms 1, a satellite for interplanetary comms",
             "who": "USRA"
         },
         {
-            "event": "Malina 8, A satilite mapping out Ceres' surface",
+            "event": "Malina 8, A satellite mapping out Ceres' surface",
             "who": "Ulluriarsiut Exploration of Space"
         },
         {
@@ -93,7 +93,7 @@
             "who": "Arc Dev Space (ADS)"
         },
         {
-            "event": "Perseverance 2, crewed flyby of the moon",
+            "event": "Perseverance 2, manned flyby of the moon",
             "who": "USRA"
         }
     ]

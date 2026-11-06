@@ -49,10 +49,10 @@
             "comms": "Normal"
         },
         {
-            "name": "Janitor's space agency (JSA)",
-            "owner": "JetstimulatorLabs",
+            "name": "Macanautics space agency (MSA)",
+            "owner": "JetstimulatorLabs" "(company)",
             "type": "Privately owned",
-            "money": "2,086.82",
+            "money": "642.16",
             "status": "Active",
             "comms": "Normal"
         },

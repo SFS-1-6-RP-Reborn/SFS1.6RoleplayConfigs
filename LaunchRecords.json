@@ -99,6 +99,10 @@
         {
             "event": "JSL Leap Star I | JSL's first manned craft",
             "who": "JSL"
+        },
+        {
+            "event": "JSL Leap Star II | JSL's first docking",
+            "who": "MSL"
         }
     ]
 }

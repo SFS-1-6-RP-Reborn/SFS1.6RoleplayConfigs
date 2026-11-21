@@ -103,6 +103,10 @@
         {
             "event": "JSL Leap Star II | JSL's first docking",
             "who": "MSL"
+        },
+        {
+            "event": "Hermes 1, flyby of Mercury",
+            "who": "Nuclide Technologies"
         }
     ]
 }
